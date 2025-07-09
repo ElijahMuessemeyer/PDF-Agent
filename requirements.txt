@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-community
+pypdf
+python-dotenv
+faiss-cpu
+tkinter
