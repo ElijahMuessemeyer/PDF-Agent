@@ -3,8 +3,9 @@ A Python-based PDF Q&A AI Agent that allows users to ask any questions of their 
 
 ## How to Run
 1) Clone this repository
-2) set up an '.env' file with your OpenAI API key
-3) run app.py file
+2) Go to platform.openai.com and generate an API key
+3) Copy the API key and paste it into [Your OpenAI API key] in '.env'
+4) run app.py file
 
 ## Tech Stack
 Python
